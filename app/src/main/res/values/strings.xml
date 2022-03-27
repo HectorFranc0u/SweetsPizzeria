@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="edtxtNombre">Nombre</string>
+    <string name="btnenviar">ORDENAR</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="btnregresar">Regresar</string>
+</resources>
